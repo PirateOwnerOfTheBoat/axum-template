@@ -1,0 +1,6 @@
+[placeholders]
+database_username = { prompt = "Enter database username", type = "string" }
+database_password = { prompt = "Enter password for the user", type = "string" }
+database_name = { prompt = "Enter database name", type = "string" }
+database_host = { prompt = "Enter database host", type = "string" }
+database_port = { prompt = "Enter database port", type = "string" }
