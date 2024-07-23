@@ -1,5 +1,5 @@
 use crate::startup::run;
-use axum_template::{configuration::get_configuration, startup};
+use {{project-name}}::{configuration::get_configuration, startup};
 use tokio::net::TcpListener;
 
 #[tokio::main]
